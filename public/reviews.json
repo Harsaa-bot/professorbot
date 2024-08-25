@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Introduction to Psychology",
+      "stars": 4.5,
+      "review": "Engaging lectures and fair grading. Highly recommended!"
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Organic Chemistry",
+      "stars": 3.8,
+      "review": "Challenging course, but Prof. Chen explains concepts well."
+    },
+    {
+      "professor": "Dr. Emily Rodriguez",
+      "subject": "World History",
+      "stars": 4.2,
+      "review": "Fascinating content and great discussions in class."
+    },
+    {
+      "professor": "Prof. David Lee",
+      "subject": "Calculus II",
+      "stars": 3.5,
+      "review": "Tough material, but Prof. Lee is always available for office hours."
+    },
+    {
+      "professor": "Dr. Amanda Foster",
+      "subject": "Introduction to Literature",
+      "stars": 4.7,
+      "review": "Dr. Foster's passion for literature is contagious. Loved this class!"
+    },
+    {
+      "professor": "Prof. Robert Thompson",
+      "subject": "Microeconomics",
+      "stars": 3.9,
+      "review": "Clear explanations of complex concepts. Tests are challenging."
+    },
+    {
+      "professor": "Dr. Lisa Wang",
+      "subject": "Artificial Intelligence",
+      "stars": 4.6,
+      "review": "Cutting-edge material and great projects. Dr. Wang is brilliant."
+    },
+    {
+      "professor": "Prof. James Miller",
+      "subject": "Environmental Science",
+      "stars": 3.7,
+      "review": "Interesting field trips, but lectures can be a bit dry."
+    },
+    {
+      "professor": "Dr. Olivia Brown",
+      "subject": "Abnormal Psychology",
+      "stars": 4.4,
+      "review": "Fascinating case studies and thoughtful discussions."
+    },
+    {
+      "professor": "Prof. Thomas Wilson",
+      "subject": "Constitutional Law",
+      "stars": 4.1,
+      "review": "Challenging but rewarding. Prof. Wilson really knows his stuff."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Spanish Literature",
+      "stars": 4.3,
+      "review": "Dr. Garcia's enthusiasm makes even difficult texts enjoyable."
+    },
+    {
+      "professor": "Prof. John Smith",
+      "subject": "Introduction to Philosophy",
+      "stars": 3.6,
+      "review": "Thought-provoking content, but grading can be inconsistent."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Molecular Biology",
+      "stars": 4.5,
+      "review": "Extremely challenging, but Dr. Green is an excellent teacher."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Linear Algebra",
+      "stars": 3.8,
+      "review": "Clear explanations, but homework can be very time-consuming."
+    },
+    {
+      "professor": "Dr. Jessica Taylor",
+      "subject": "Social Psychology",
+      "stars": 4.6,
+      "review": "Engaging lectures and interesting group projects. Highly recommended!"
+    },
+    {
+      "professor": "Prof. Mark Anderson",
+      "subject": "Financial Accounting",
+      "stars": 3.9,
+      "review": "Prof. Anderson has great real-world examples. Exams are tough but fair."
+    },
+    {
+      "professor": "Dr. Sophia Lee",
+      "subject": "Quantum Physics",
+      "stars": 4.2,
+      "review": "Incredibly challenging material, but Dr. Lee explains it well."
+    },
+    {
+      "professor": "Prof. William Baker",
+      "subject": "Creative Writing",
+      "stars": 4.7,
+      "review": "Prof. Baker's feedback is invaluable. Really improved my writing."
+    },
+    {
+      "professor": "Dr. Elizabeth Chen",
+      "subject": "Human Anatomy",
+      "stars": 4.0,
+      "review": "Detailed lectures and helpful lab sessions. Be prepared to study hard."
+    },
+    {
+      "professor": "Prof. Christopher Davis",
+      "subject": "International Relations",
+      "stars": 4.3,
+      "review": "Insightful discussions and well-structured course. Enjoyed every class."
+    }
+  ]
+}
